@@ -214,7 +214,8 @@ void lcd_display(){
  #### OFF Condition:
  ![Screenshot 2025-03-27 143036](https://github.com/user-attachments/assets/94bd934f-4514-4069-85f0-b7e1aea77790)
  #### ON Conition:
-![431688154-1e3bf6eb-b74d-467d-8c63-6c798726b8cc](https://github.com/user-attachments/assets/2871c142-24f8-47c0-ba1e-ee8d5a906690)
+![ex4on](https://github.com/user-attachments/assets/77acc60c-9190-41f8-96a1-2110fbac4958)
+
 
 
  
